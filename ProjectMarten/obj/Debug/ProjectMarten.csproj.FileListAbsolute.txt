@@ -1,0 +1,16 @@
+C:\Users\1212-1\Documents\Marten 11a\ProjectMarten\ProjectMarten\bin\Debug\ProjectMarten.exe.config
+C:\Users\1212-1\Documents\Marten 11a\ProjectMarten\ProjectMarten\bin\Debug\ProjectMarten.exe
+C:\Users\1212-1\Documents\Marten 11a\ProjectMarten\ProjectMarten\bin\Debug\ProjectMarten.pdb
+C:\Users\1212-1\Documents\Marten 11a\ProjectMarten\ProjectMarten\bin\Debug\EntityFramework.dll
+C:\Users\1212-1\Documents\Marten 11a\ProjectMarten\ProjectMarten\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\1212-1\Documents\Marten 11a\ProjectMarten\ProjectMarten\bin\Debug\EntityFramework.xml
+C:\Users\1212-1\Documents\Marten 11a\ProjectMarten\ProjectMarten\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\1212-1\Documents\Marten 11a\ProjectMarten\ProjectMarten\obj\Debug\ProjectMarten.csproj.AssemblyReference.cache
+C:\Users\1212-1\Documents\Marten 11a\ProjectMarten\ProjectMarten\obj\Debug\ProjectMarten.Properties.Resources.resources
+C:\Users\1212-1\Documents\Marten 11a\ProjectMarten\ProjectMarten\obj\Debug\ProjectMarten.csproj.GenerateResource.cache
+C:\Users\1212-1\Documents\Marten 11a\ProjectMarten\ProjectMarten\obj\Debug\ProjectMarten.csproj.CoreCompileInputs.cache
+C:\Users\1212-1\Documents\Marten 11a\ProjectMarten\ProjectMarten\obj\Debug\ProjectM.87E98243.Up2Date
+C:\Users\1212-1\Documents\Marten 11a\ProjectMarten\ProjectMarten\obj\Debug\ProjectMarten.exe
+C:\Users\1212-1\Documents\Marten 11a\ProjectMarten\ProjectMarten\obj\Debug\ProjectMarten.pdb
+C:\Users\1212-1\Documents\Marten 11a\ProjectMarten\ProjectMarten\obj\Debug\ProjectMarten.exe.config
+C:\Users\1212-1\Documents\Marten 11a\ProjectMarten\ProjectMarten\obj\Debug\ProjectMarten.Migrations.CreateDB.resources
