@@ -21,7 +21,7 @@ namespace ProjectMarten.Controller
         }
         public List<Parcel> GetAll()
         {
-            return _courierContext.Parcels.Include("ParcelType").ToList();
+            return _courierContext.Parcels.Include("ParcelTypes").ToList();
         }
         public void Create(Parcel parcel)
         {
