@@ -241,5 +241,10 @@ namespace ProjectMarten
         {
 
         }
+
+        private void numId_ValueChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

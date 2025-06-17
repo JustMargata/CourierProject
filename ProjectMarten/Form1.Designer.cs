@@ -65,10 +65,12 @@
             // 
             // numId
             // 
+            this.numId.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.numId.Location = new System.Drawing.Point(144, 25);
             this.numId.Name = "numId";
             this.numId.Size = new System.Drawing.Size(128, 20);
             this.numId.TabIndex = 1;
+            this.numId.ValueChanged += new System.EventHandler(this.numId_ValueChanged);
             // 
             // lblName
             // 
@@ -234,7 +236,7 @@
             // 
             this.listBox1.FormattingEnabled = true;
             this.listBox1.HorizontalScrollbar = true;
-            this.listBox1.Location = new System.Drawing.Point(597, 27);
+            this.listBox1.Location = new System.Drawing.Point(606, 25);
             this.listBox1.Name = "listBox1";
             this.listBox1.Size = new System.Drawing.Size(253, 329);
             this.listBox1.TabIndex = 17;
@@ -266,6 +268,8 @@
             this.Controls.Add(this.numId);
             this.Controls.Add(this.lblId);
             this.DoubleBuffered = true;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.MaximizeBox = false;
             this.Name = "Form1";
             this.Text = "CourierApp";
             this.Load += new System.EventHandler(this.Form1_Load);
